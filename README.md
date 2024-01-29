@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=yotadaa&show_icons=true&theme=apprentice" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yotadaa&theme=apprentice" />
+<img src="https://github-readme-stats.vercel.app/api?username=yotadaa&show_icons=true&theme=apprentice" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yotadaa&theme=apprentice" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotadaa&langs_count=10&theme=apprentice" />
 
