@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![](https://img.shields.io/github/followers/yotadaa?label=GitHub%20Followers)](https://github.com/yotadaa)
+[![](https://komarev.com/ghpvc/?username=yotadaa&color=yellow&label=Profile%20Views)](https://github.com/yotadaa/yotadaa)
 
 <img src="https://github-readme-stats.vercel.app/api?username=yotadaa&show_icons=true&theme=apprentice" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yotadaa&theme=apprentice" />
 
